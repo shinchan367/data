@@ -36,6 +36,6 @@ def analyze_employee_data(file_path):
         else:
             consecutive_days_count += 1
 
-# Example usage
+
 file_path = 'path/to/your/file.csv'
 analyze_employee_data(file_path)
