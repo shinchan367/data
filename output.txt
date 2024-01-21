@@ -1,0 +1,23 @@
+Employees who have worked for 7 consecutive days:
+                 Employee Name Position ID
+1323  CiGriaW DeXgadE, EXeWa S   WFS000574
+
+Employees who have less than 10 hours of time between shifts but greater than 1 hour:
+                    Employee Name Position ID
+5                 REsaXiaWE, XAis   WFS000065
+25                Sparks, KeWWeMh   WFS000101
+27                Sparks, KeWWeMh   WFS000101
+35                Sparks, KeWWeMh   WFS000101
+39                Sparks, KeWWeMh   WFS000101
+...                           ...         ...
+1441  RaCEs HerWaWdez, AdieX ECar   WFS000585
+1454       XariEs, Cesar GiEvaWWi   WFS000587
+1467     AGeX, WaMhaW REGerM PeWa   WFS000588
+1471     AGeX, WaMhaW REGerM PeWa   WFS000588
+1476              WgAyeW, RayCEWd   WFS000589
+
+[321 rows x 2 columns]
+
+Employees who have worked for more than 14 hours in a single shift:
+                        Employee Name Position ID
+1036  DeXgadiXXE REdarMe, ChrisMiaW S   WFS000523
